@@ -90,7 +90,7 @@ class ColaArreglo{
 		else{
 			ultimoaux++;
 			if(ultimoaux==Cant_elem2)
-				System.out.println("No hay campo");
+				System.out.println("que mas ve");
 			else
 				ArregloColaux[ultimoaux]=x;
 			}
