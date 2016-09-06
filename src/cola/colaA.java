@@ -117,7 +117,7 @@ class ColaArreglo{
     public void Imprimir(){
         Object desplazar2;
         if(VaciaCola())
-            System.out.println("No hay Elementos");
+            System.out.println("venga que si hay");
         else{
             System.out.println("La cola es:");
             while(!VaciaCola()){
