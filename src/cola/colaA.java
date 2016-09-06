@@ -119,7 +119,7 @@ class ColaArreglo{
         if(VaciaCola())
             System.out.println("venga que si hay");
         else{
-            System.out.println("La cola es:");
+            System.out.println("La cola es de todos:");
             while(!VaciaCola()){
                 desplazar2=Avanzar();
                 
